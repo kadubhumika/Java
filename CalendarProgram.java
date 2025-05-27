@@ -5,8 +5,13 @@ public class CalendarProgram {
 
     public static void calendar() {
         // Print numbers 0 to 11 before the calendar
+
         for (int j = 0; j < 12; j++) {
             System.out.println(j);
+
+        for (int i = 0; i < 12; i++) {
+            System.out.println(i);
+
         }
 
         System.out.println(); // Optional: adds a line break
@@ -27,4 +32,7 @@ public class CalendarProgram {
         }
     }
 }
+
+
+
 
