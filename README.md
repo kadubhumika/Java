@@ -13,13 +13,18 @@ Whether you're just starting out or looking to strengthen your Java fundamentals
 - 💻 Task-based learning with practical examples  
 - 🛠️ Mini-projects to apply your skills  
  - 🔍 Clean, readable, and well-commented code  
+- 🎯 Code written using **IntelliJ IDEA** / **Eclipse**  
+- 🔍 Clean, readable, and well-commented code  
+
 
 ---
 
 ## 🛠 Tools & Technologies
 
 - **Language:** Java  
+
   
+- **IDE:** IntelliJ IDEA / Eclipse  
 - **Version Control:** Git & GitHub  
 - **Build Tools:** (Optional) Maven / Gradle  
 
